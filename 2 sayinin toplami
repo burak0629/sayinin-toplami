@@ -1,0 +1,8 @@
+	#include<stdio.h>
+	void main(){
+	int s1,s2;
+	printf("kalvyeden 2 sayi gir:\n");
+	scanf("%d %d", &s1, &s2);
+	printf("sonuc=%d", (s1+s2));
+	getch();
+	}
